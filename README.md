@@ -1,7 +1,19 @@
-Founder & Lead Dev @ The Million PK. Full-stack software engineer bridging complex backend logic with premium UI/UX.
+# Hi there, I'm Ibraheem Hashmi 👋
 
-# 💫 About Me:
-🔭 I’m currently working on: My BSCS degree at IoBM and building out web projects like "The Million PK."<br><br>👯 I’m looking to collaborate on: Front-end web development, open-source software, or any ambitious coding projects.<br><br>🤝 I’m looking for help with: Expanding my programming tech stack and diving deeper into advanced development frameworks.<br><br>🌱 I’m currently learning: Core programming fundamentals, mastering HTML/CSS, and exploring new languages to level up my code.<br><br>💬 Ask me about: Web dev essentials, custom PC hardware builds, the local tech scene, or gaming.<br><br>⚡ Fun fact: Before I started debugging code, I was actually my school's Student Council President and Head Boy!
+**Co-Founder & COO @ Treemate US | Founder & Lead Developer @ The Million PK**
+
+I'm a full-stack software engineer passionate about bridging complex backend logic with premium, intuitive UI/UX. Currently pursuing my BSCS at IoBM, I balance my academic fundamentals with hands-on startup leadership and active web development.
+
+### 🚀 What I'm Up To
+* 🔭 **Building:** Driving the technical vision as Lead Dev for "The Million PK" and managing operations at Treemate US.
+* 🎓 **Learning:** Expanding my tech stack, mastering core programming fundamentals (HTML/CSS, C++, Python, JavaScript), and exploring new languages to level up my code.
+* 🤝 **Collaborating:** Always open to partnering on front-end web development, open-source software, and ambitious full-stack coding projects.
+* 🌱 **Seeking:** Opportunities to dive deeper into advanced development frameworks and robust system architecture.
+
+### 💬 Let's Connect
+Ask me about web dev essentials, custom PC hardware builds, navigating the local tech scene, or competitive gaming.
+
+⚡ **Fun Fact:** Before I started debugging code and leading startups, I was my school's Student Council President and Head Boy!
 
 
 # 💻 Tech Stack:
