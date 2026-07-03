@@ -1,11 +1,11 @@
 # Hi there, I'm Ibraheem Hashmi 👋
 
-**Co-Founder & COO @ Treemate US | Founder & Lead Developer @ The Million PK**
+**Co-Founder & COO @ Treemate US | Founder & Lead Developer @ THEMILLIONPK**
 
 I'm a full-stack software engineer passionate about bridging complex backend logic with premium, intuitive UI/UX. Currently pursuing my BSCS at IoBM, I balance my academic fundamentals with hands-on startup leadership and active web development.
 
 ### 🚀 What I'm Up To
-* 🔭 **Building:** Driving the technical vision as the founder and Lead Dev for "The Million PK" and managing operations at Treemate US.
+* 🔭 **Building:** Driving the technical vision as the founder and Lead Dev for "THEMILLIONPK" and managing operations at "Treemate US".
 * 🎓 **Learning:** Expanding my tech stack, mastering core programming fundamentals (HTML/CSS, C++, Python, JavaScript), and exploring new languages to level up my code.
 * 🤝 **Collaborating:** Always open to partnering on front-end web development, open-source software, and ambitious full-stack coding projects.
 * 🌱 **Seeking:** Opportunities to dive deeper into advanced development frameworks and robust system architecture.
