@@ -38,16 +38,7 @@ I'm a full-stack software engineer passionate about bridging complex backend log
 
 ---
 
-### 📊 GitHub Stats
+⚡ *Fun Fact: Before I started debugging code and leading startups, I was my school's Student Council President and Head Boy!*
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IbraheemHashmi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbraheemHashmi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
-</div>
-
-<br />
-<p align="center">
-  <i>⚡ Fun Fact: Before I started debugging code and leading startups, I was my school's Student Council President and Head Boy!</i> <br/>
-  ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=flat-square&logo=Playstation&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat-square&logo=steam&logoColor=white)
-</p>
+![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=flat-square&logo=Playstation&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat-square&logo=steam&logoColor=white)
 
