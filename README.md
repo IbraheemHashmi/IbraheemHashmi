@@ -1,7 +1,7 @@
 # Hi there, I'm Ibraheem Hashmi 👋
 
 <div align="center">
-  <img src="https://media.giphy.com/media/xT9DPpf0zTqRASyzTi/giphy.gif" width="100%" alt="Darth Vader"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Developer Animation"/>
 </div>
 
 
@@ -45,4 +45,9 @@ I'm a full-stack software engineer passionate about bridging complex backend log
 ⚡ *Fun Fact: Before I started debugging code and leading startups, I was my school's Student Council President and Head Boy!*
 
 ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=flat-square&logo=Playstation&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat-square&logo=steam&logoColor=white)
+
+<br>
+<div align="center">
+  <img src="https://media.giphy.com/media/JD0PRlEsWNkeQ/giphy.gif" width="400" alt="Darth Vader Lightsaber"/>
+</div>
 
