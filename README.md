@@ -1,5 +1,10 @@
 # Hi there, I'm Ibraheem Hashmi 👋
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Developer Animation"/>
+</div>
+
+
 ### Co-Founder & COO @ Treemate US | Founder & Lead Developer @ THEMILLIONPK
 
 I'm a full-stack software engineer passionate about bridging complex backend logic with premium, intuitive UI/UX. Currently pursuing my BSCS at IoBM, I balance my academic fundamentals with hands-on startup leadership and active web development.
