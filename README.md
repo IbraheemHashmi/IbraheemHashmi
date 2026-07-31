@@ -48,6 +48,6 @@ I'm a full-stack software engineer passionate about bridging complex backend log
 
 <br>
 <div align="center">
-  <img src="https://media.giphy.com/media/JD0PRlEsWNkeQ/giphy.gif" width="400" alt="Darth Vader Lightsaber"/>
+  <img src="https://media.giphy.com/media/26FL0ydLDEcARWY0g/giphy.gif" width="400" alt="Darth Vader"/>
 </div>
 
