@@ -30,11 +30,10 @@ I'm a full-stack software engineer passionate about bridging complex backend log
 
 ---
 
-### 🏆 Featured Projects (Coming Soon)
-*I am currently building out a suite of advanced open-source projects including systems engineering, distributed architecture, and AI integrations.*
+### 🏆 Featured Projects
 
-1. 🚧 **Project 1:** (TBD - e.g. RAG AI Knowledge Bot)
-2. 🚧 **Project 2:** (TBD - e.g. Custom C++ HTTP Server)
+1. 🛡️ **[HonestWeb](https://github.com/IbraheemHashmi/HonestWeb)**: A real-time deceptive UI scanner browser extension. Engineered a custom DOM-traversal script with heuristic Regex pattern matching to detect and expose Dark Patterns (fake urgency timers, scarcity banners) on live e-commerce sites. Built with Vanilla JS and Manifest V3.
+2. 🧠 **[Resume Scanner](https://github.com/IbraheemHashmi/Resume-Scanner)**: A 100% offline, privacy-first NLP Resume Ranking engine. Avoided external LLM APIs entirely by building a custom vectorization pipeline using `scikit-learn` to calculate TF-IDF and Cosine Similarity between candidate resumes and job descriptions. Built with Python and FastAPI.
 
 ---
 
